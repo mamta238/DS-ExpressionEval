@@ -6,11 +6,12 @@ The code evaluates mathematical expressions.The code supports **integers** as we
 - C language	
 	
 ## Concepts and Data Structures in Use:
-[Deterministic Finite Automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)
-[Stack Data Structure](https://www.geeksforgeeks.org/stack-data-structure/)
-[Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
-[Structure and Union in C](https://www.codingunit.com/c-tutorial-structures-unions-typedef) 
-[Types of Expression Notation](http://interactivepython.org/runestone/static/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html)
+
+* [Deterministic Finite Automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)
+* [Stack Data Structure](https://www.geeksforgeeks.org/stack-data-structure/)
+* [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+* [Structure and Union in C](https://www.codingunit.com/c-tutorial-structures-unions-typedef) 
+* [Types of Expression Notation](http://interactivepython.org/runestone/static/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html)
 	 
 
 ## Steps Of Execution
